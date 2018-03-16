@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MapaNivel.qml</file>
+        <file>MenuInicio.qml</file>
+        <file>RegistroUsuario.qml</file>
+        <file>SistemaTrivia.qml</file>
+        <file>VistaUsuarios.qml</file>
+        <file>Imagenes/banner pausa.png</file>
+        <file>Imagenes/banner1.png</file>
+        <file>Imagenes/banner2.png</file>
+        <file>Imagenes/banner3.png</file>
+        <file>Imagenes/drawer.png</file>
+        <file>Imagenes/fondo.jpg</file>
+        <file>Imagenes/fondo2.jpg</file>
+        <file>Imagenes/fondo3.jpg</file>
+        <file>Imagenes/fondo4.jpg</file>
+        <file>Imagenes/fondo5.jpg</file>
+        <file>Imagenes/fondo6.jpg</file>
+        <file>Imagenes/fondo7.jpg</file>
+        <file>Imagenes/fondobarra.png</file>
+        <file>Imagenes/fondomenu.png</file>
+        <file>Imagenes/fondopreguntas.png</file>
+        <file>Imagenes/icono CSJ.png</file>
+        <file>Imagenes/icono cuenta.png</file>
+        <file>Imagenes/icono eliminar.png</file>
+        <file>Imagenes/icono jugar.png</file>
+        <file>Imagenes/icono nuevo.png</file>
+        <file>Imagenes/icono nuevoUsuario.png</file>
+        <file>Imagenes/icono recargar.png</file>
+        <file>Imagenes/icono salir.png</file>
+        <file>Imagenes/icono usuario.png</file>
+        <file>Imagenes/icono usuarios.png</file>
+        <file>Imagenes/icono volver.png</file>
+        <file>Imagenes/mapaescuela.png</file>
+        <file>Imagenes/personaje.png</file>
+        <file>Imagenes/TecladoyMouse.png</file>
+        <file>Sonidos/Biennvenida.wav</file>
+        <file>Sonidos/ComoJugar.wav</file>
+        <file>Sonidos/ContraseñaIncorrecta.wav</file>
+        <file>Sonidos/correcto.wav</file>
+        <file>Sonidos/error.wav</file>
+        <file>Sonidos/FaltaNoC.wav</file>
+        <file>Sonidos/pasos.wav</file>
+        <file>Sonidos/Selecciona.wav</file>
+    </qresource>
+</RCC>
